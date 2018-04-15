@@ -1,0 +1,165 @@
+['701', 'describe', 'history', 'oil', 'industry']
+time : 19.602369785308838 s
+['702', 'pearl', 'farming', 'operations', 'actual', 'farming', 'operations', 'described', 'culturing', 'pearls', 'japanese', 'pearl', 'productions', 'status', 'pearl', 'farming', 'production']
+time : 13.128322124481201 s
+['704', 'goals', 'political', 'views', 'green', 'party']
+time : 15.920708656311035 s
+['705', 'identify', 'efforts', 'proposed', 'undertaken', 'world', 'governments', 'seek', 'reduction', 'iraqs', 'foreign', 'debt']
+time : 26.444328546524048 s
+['706', 'methods', 'control', 'type', 'ii', 'diabetes']
+time : 24.435824632644653 s
+['707', 'evidence', 'aspirin', 'help', 'prevent', 'cancer']
+time : 17.997106790542603 s
+['708', 'sources', 'slate', 'stone', 'decorative']
+time : 23.087051153182983 s
+['709', 'limits', 'regulations', 'concerning', 'jockey', 'weight', 'horse', 'racing']
+time : 18.051840782165527 s
+['711', 'security', 'measures', 'employed', 'train', 'stations', 'due', 'heightened', 'security', 'concerns']
+time : 19.517678022384644 s
+['712', 'actual', 'examples', 'pyramid', 'schemes']
+time : 19.785779237747192 s
+['713', 'state', 'maryland', 'clean', 'chesapeake', 'bay']
+time : 23.729373693466187 s
+['714', 'restrictions', 'placed', 'older', 'persons', 'renewing', 'drivers', 'licenses']
+time : 19.59022831916809 s
+['715', 'organizations', 'private', 'governmental', 'developing', 'drugs', 'combat', 'schizophrenia']
+time : 25.130699396133423 s
+['716', 'spammers', 'arrested', 'sued', 'sending', 'unsolicited', 'e', 'mail']
+time : 12.92599630355835 s
+['722', 'ways', 'iran', 'support', 'terrorism']
+time : 18.531129837036133 s
+['723', 'governments', 'definition', 'executive', 'privilege']
+time : 17.690773963928223 s
+['724', 'iran', 'contra', 'scandal', 'consequences']
+time : 14.740278482437134 s
+['725', 'cause', 'lowered', 'white', 'blood', 'cell', 'count']
+time : 29.442836046218872 s
+['727', 'identify', 'specific', 'instances', 'church', 'arson']
+time : 24.524530172348022 s
+['729', 'revelations', 'whistle', 'blowers', 'concerning', 'department', 'defense']
+time : 13.360069274902344 s
+['730', 'possible', 'complications', 'potential', 'dangers', 'gastric', 'bypass', 'surgery']
+time : 16.459519624710083 s
+['733', 'regulations', 'regarding', 'airline', 'overbooking']
+time : 15.23442554473877 s
+['735', 'condition', 'afghan', 'women', 'better', 'new', 'government', 'taliban']
+time : 15.78325891494751 s
+['737', 'allegations', 'made', 'enrons', 'culpability', 'california', 'energy', 'crisis']
+time : 11.915199518203735 s
+['738', 'examples', 'anthrax', 'hoaxes']
+time : 12.479685544967651 s
+['739', 'organization', 'habitat', 'humanity', 'activities', 'involved']
+time : 15.732699155807495 s
+['740', 'regulates', 'assisted', 'living', 'facilities', 'maryland']
+time : 11.447843074798584 s
+['741', 'artificial', 'intelligence']
+time : 11.594965696334839 s
+['743', 'regulations', 'considerations', 'concerning', 'registering', 'freighter', 'country']
+time : 14.288325548171997 s
+['745', 'identify', 'doomsday', 'cult', 'name', 'location', 'world']
+time : 14.310109853744507 s
+['746', 'jobs', 'outsourced', 'india']
+time : 12.300882577896118 s
+['747', 'control', 'oversight', 'computer', 'public', 'libraries']
+time : 17.71436071395874 s
+['749', 'people', 'puerto', 'rico', 'state']
+time : 16.211707830429077 s
+['750', 'senator', 'john', 'edwards', 'positions', 'womens', 'issues', 'pay', 'equity', 'abortion', 'title', 'ix', 'violence', 'women']
+time : 11.062036514282227 s
+['751', 'give', 'information', 'scrabble', 'players', 'scrabble', 'played', 'popular']
+time : 20.95643639564514 s
+['752', 'dams', 'removed', 'environmental', 'impact']
+time : 12.378790378570557 s
+['753', 'programs', 'schools', 'prevent', 'bullying', 'students']
+time : 17.14676308631897 s
+['755', 'history', 'location', 'scottish', 'highland', 'games', 'united', 'states']
+time : 15.828274488449097 s
+['757', 'show', 'examples', 'murals']
+time : 17.523695945739746 s
+['760', 'statistics', 'regarding', 'american', 'muslims', 'mosques', 'schools']
+time : 12.644325494766235 s
+['761', 'describe', 'problems', 'faced', 'hmong', 'immigrants', 'united', 'states']
+time : 20.155372619628906 s
+['763', 'give', 'information', 'human', 'deaths', 'associated', 'hunting', 'game']
+time : 24.28561234474182 s
+['770', 'state', 'kyrgyzstan', 'united', 'states', 'relations']
+time : 18.819736003875732 s
+['771', 'deformities', 'found', 'leopard', 'frogs']
+time : 11.162697792053223 s
+['772', 'rules', 'guidelines', 'display', 'united', 'states', 'flag']
+time : 14.436479806900024 s
+['776', 'magnet', 'schools', 'considered', 'successful', 'districts', 'created']
+time : 12.018256425857544 s
+['782', 'varieties', 'oranges', 'season']
+time : 11.487248659133911 s
+['792', 'social', 'security', 'means', 'test']
+time : 15.591987609863281 s
+['794', 'pets', 'animals', 'therapy', 'humans', 'benefits']
+time : 11.928664922714233 s
+['795', 'reference', 'notable', 'cockers', 'spaniels']
+time : 14.217682361602783 s
+['798', 'history', 'development', 'locations', 'textile', 'mills', 'massachusetts']
+time : 17.310998678207397 s
+['801', 'describe', 'origin', 'nature', 'extent', 'spread', 'means', 'controlling', 'kudzu']
+time : 22.155277490615845 s
+['802', 'impact', 'volcano', 'eruptions', 'global', 'temperature']
+time : 16.599695205688477 s
+['804', 'describe', 'resolutions', 'proposed', 'legislation', 'passed', 'ban', 'cloning', 'humans', 'rationale', 'bans']
+time : 19.956825256347656 s
+['806', 'doctors', 'borders', 'medecins', 'sans', 'frontieres']
+time : 15.24995231628418 s
+['808', 'information', 'available', 'involvement', 'north', 'korean', 'government', 'counterfeiting', 'currency']
+time : 28.64742350578308 s
+['810', 'information', 'regarding', 'timeshare', 'resales']
+time : 22.331396102905273 s
+['811', 'state', 'recognizing', 'handwritten', 'inputs', 'computers']
+time : 19.9438636302948 s
+['812', 'conditions', 'lead', 'doctors', 'recommend', 'total', 'knee', 'replacement', 'surgery', 'complications', 'result', 'surgery']
+time : 18.80190348625183 s
+['816', 'describe', 'efforts', 'made', 'usaid', 'protect', 'biodiversity', 'galapagos', 'islands', 'ecuador']
+time : 19.919169187545776 s
+['817', 'naming', 'rights', 'sports', 'stadiums', 'acquired']
+time : 11.679962635040283 s
+['818', 'known', 'culture', 'history', 'chaco', 'people', 'features', 'chaco', 'culture', 'national', 'historic', 'park']
+time : 18.88849925994873 s
+['820', 'imported', 'fire', 'ants', 'controlled']
+time : 12.81986927986145 s
+['821', 'describe', 'work', 'home', 'scams', 'promoted', 'internet']
+time : 21.40330958366394 s
+['822', 'give', 'history', 'battle', 'big', 'horn', 'june', '25', '26', '1876', 'referred', 'custers', 'stand']
+time : 20.016506671905518 s
+['824', 'current', 'role', 'civil', 'air', 'patrol', 'training', 'participants', 'receive']
+time : 23.3571994304657 s
+['825', 'describe', 'deployment', 'national', 'guard', 'units', 'iraq']
+time : 16.572861671447754 s
+['826', 'relationship', 'seminole', 'indians', 'florida']
+time : 15.347225427627563 s
+['829', 'information', 'kinds', 'material', 'international', 'support', 'provided', 'side', 'spanish', 'civil', 'war']
+time : 22.318228721618652 s
+['830', 'locate', 'past', 'present', 'model', 'railroad', 'layouts']
+time : 21.687429666519165 s
+['831', 'describe', 'security', 'measures', 'dulles', 'international', 'airport', 'virginia']
+time : 17.452523946762085 s
+['834', 'global', 'positioning', 'system', 'gps', 'research', 'monitoring', 'earthquakes']
+time : 13.079017400741577 s
+['835', 'bostons', 'central', 'artery', 'project', 'known', 'big', 'dig', 'characterized', 'pork']
+time : 11.265220165252686 s
+['836', 'level', 'wages', 'paid', 'illegal', 'immigrants']
+time : 18.155121326446533 s
+['837', 'information', 'pre', '1500', 'history', 'eskimo', 'inuit', 'people']
+time : 26.49185824394226 s
+['838', 'humans', 'responded', 'respond', 'appearance', 'coyotes', 'urban', 'suburban', 'areas']
+time : 13.307937383651733 s
+['841', 'information', 'camels', 'north', 'america', 'prehistoric', 'modern', 'times']
+time : 19.083133935928345 s
+['843', 'pol', 'pot', 'did']
+time : 23.177400827407837 s
+['846', 'describe', 'evidence', 'heredity', 'play', 'role', 'obesity']
+time : 17.41371512413025 s
+['847', 'role', 'portugal', 'world', 'war', 'ii']
+time : 15.486127138137817 s
+['849', 'scalable', 'vector', 'graphics']
+time : 11.199392080307007 s
+['850', 'frequently', 'mississippi', 'river', 'flood', 'banks']
+time : 12.939555168151855 s
+total : 1428.8143045902252
